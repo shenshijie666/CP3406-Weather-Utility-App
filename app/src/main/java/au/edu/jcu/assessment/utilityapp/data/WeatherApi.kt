@@ -30,6 +30,7 @@ interface WeatherApi {
     }
 }
 
+
 data class GeocodingResponse(
     val results: List<GeocodingResult>?
 )
