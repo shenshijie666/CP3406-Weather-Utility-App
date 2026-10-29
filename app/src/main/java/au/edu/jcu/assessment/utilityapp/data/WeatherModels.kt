@@ -25,6 +25,7 @@ data class CurrentWeather(
     val weatherCode: Int
 )
 
+
 data class HourlyWeather(
     val time: List<String>,
 
