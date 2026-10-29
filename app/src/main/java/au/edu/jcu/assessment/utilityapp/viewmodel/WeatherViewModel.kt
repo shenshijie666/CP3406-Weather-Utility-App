@@ -42,6 +42,7 @@ class WeatherViewModel(
         loadWeatherForCity(requestedCity)
     }
 
+
     fun loadWeather() {
         searchWeather(_city.value)
     }
