@@ -30,6 +30,7 @@ It provides the structure for a simple tabular UI using **Jetpack Compose** and 
 
 ---
 
+
 ## Key Concepts Covered
 
 | Week | Concept                        | Used In                          |
