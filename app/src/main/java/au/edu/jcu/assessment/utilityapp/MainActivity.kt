@@ -392,7 +392,6 @@ private fun formatTemperature(
     val unit = if (isCelsius) "°C" else "°F"
     return "${value.roundToInt()}$unit"
 }
-
 private fun weatherDescription(code: Int): String {
     return when (code) {
         0 -> "Clear sky"
