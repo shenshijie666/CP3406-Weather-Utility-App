@@ -1,6 +1,7 @@
 
 package au.edu.jcu.assessment.utilityapp.viewmodel
 
+
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
 import au.edu.jcu.assessment.utilityapp.data.WeatherRepository
